@@ -1,0 +1,12 @@
+# Placeholder for future ORM models
+__pycache__/
+*.pyc
+.env
+/venv
+/.idea
+env/
+*.pyo
+.DS_Store
+*.iml
+*.xml
+migrations/
